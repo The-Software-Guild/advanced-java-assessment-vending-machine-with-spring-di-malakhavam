@@ -1,0 +1,7 @@
+Snickers::2.20::0
+Kitkat::1.50::16
+MilkyWay::1.30::18
+Orbit::1.05::17
+Coke::1.60::9
+Oreo::2.10::18
+Lays::2.50::19
